@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="389" viewBox="0 0 800 389" role="img" aria-label="humanizer check">
+<rect width="800" height="389" rx="10" fill="#16161a"/>
+<path d="M0 10a10 10 0 0 1 10-10h780a10 10 0 0 1 10 10v24H0z" fill="#1f1f25"/>
+<circle cx="20" cy="17" r="5.5" fill="#d76060"/><circle cx="38" cy="17" r="5.5" fill="#c9a227"/><circle cx="56" cy="17" r="5.5" fill="#87af87"/>
+<text x="400.0" y="21.5" fill="#585858" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" text-anchor="middle">humanizer check</text>
+<g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13.5">
+<text y="54"><tspan x="14.0" fill="#d787af" font-weight="400">humanizer&gt; </tspan><tspan x="103.1" fill="#f2f2f4" font-weight="400">check draft.md</tspan></text>
+<text y="96"><tspan x="14.0" fill="#585858" font-weight="400">  ─ draft.md · 71 words </tspan><tspan x="208.4" fill="#585858" font-weight="400">──────────────────────────────────────</tspan></text>
+<text y="138"><tspan x="14.0" fill="#d787af" font-weight="400">  #14</tspan><tspan x="54.5" fill="#f2f2f4" font-weight="700">  Em Dashes (and En Dashes): Cut Them </tspan><tspan x="362.3" fill="#585858" font-weight="400">×1</tspan></text>
+<text y="159"><tspan x="14.0" fill="#585858" font-weight="400">  │</tspan><tspan x="38.3" fill="#585858" font-weight="400">    3  </tspan><tspan x="95.0" fill="#8a8a8a" font-weight="400">estly? It's not just a tool </tspan><tspan x="321.8" fill="#d787af" font-weight="400">—</tspan><tspan x="329.9" fill="#8a8a8a" font-weight="400"> it's a testament</tspan></text>
+<text y="201"><tspan x="14.0" fill="#d787af" font-weight="400">  #19</tspan><tspan x="54.5" fill="#f2f2f4" font-weight="700">  Curly Quotation Marks </tspan><tspan x="248.9" fill="#585858" font-weight="400">×2</tspan></text>
+<text y="222"><tspan x="14.0" fill="#585858" font-weight="400">  │</tspan><tspan x="38.3" fill="#585858" font-weight="400">    8  </tspan><tspan x="95.0" fill="#8a8a8a" font-weight="400">a crucial role in the </tspan><tspan x="273.2" fill="#d787af" font-weight="400">“</tspan><tspan x="281.3" fill="#8a8a8a" font-weight="400">developer experience</tspan><tspan x="443.3" fill="#d787af" font-weight="400">”</tspan></text>
+<text y="264"><tspan x="14.0" fill="#d787af" font-weight="400">  #23</tspan><tspan x="54.5" fill="#f2f2f4" font-weight="700">  Filler Phrases </tspan><tspan x="192.2" fill="#585858" font-weight="400">×2</tspan></text>
+<text y="285"><tspan x="14.0" fill="#585858" font-weight="400">  │</tspan><tspan x="38.3" fill="#585858" font-weight="400">    8  </tspan><tspan x="95.0" fill="#8a8a8a" font-weight="400">foundation for teams. </tspan><tspan x="273.2" fill="#d787af" font-weight="400">In order to</tspan><tspan x="362.3" fill="#8a8a8a" font-weight="400"> leverage this</tspan></text>
+<text y="327"><tspan x="14.0" fill="#585858" font-weight="400">  ─ 19 flags across 10 patterns </tspan><tspan x="273.2" fill="#585858" font-weight="400">──────────────────────────────</tspan></text>
+<text y="348"><tspan x="14.0" fill="#585858" font-weight="400">  only 13 of 33 patterns are mechanical. the rest need a reader.</tspan></text>
+</g></svg>

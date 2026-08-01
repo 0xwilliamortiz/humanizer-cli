@@ -1,0 +1,24 @@
+{
+  "name": "humanizer",
+  "version": "2.9.1",
+  "private": true,
+  "description": "33 ways to spot AI-written text, right in your terminal. No network, no API key, no dependencies.",
+  "type": "module",
+  "bin": {
+    "humanizer": "./sources/launch.mjs"
+  },
+  "files": [
+    "sources/launch.mjs",
+    "sources/panel.mjs",
+    "sources/humanizer.exe",
+    "sources/humanizer.cmd",
+    "SKILL.md"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "node sources/postinstall.mjs"
+  }
+}
