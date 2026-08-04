@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="48" viewBox="0 0 300 48" role="img" aria-label="Download humanizer for Windows">
+  <rect x="0.75" y="0.75" width="298.5" height="46.5" rx="9" fill="#1a1a20" stroke="#d787af" stroke-width="1.5"/>
+
+  <g stroke="#d787af" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M28 15 v14"/>
+    <path d="M22 23.5 L28 29.5 L34 23.5"/>
+    <path d="M21 34 h14"/>
+  </g>
+
+  <text x="52" y="29.5" fill="#d787af" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" font-weight="700" letter-spacing="2.2">DOWNLOAD</text>
+
+  <path d="M228 12 v24" stroke="#3a3a44" stroke-width="1"/>
+  <text x="242" y="29.5" fill="#8a8a8a" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13">2.9.2</text>
+</svg>

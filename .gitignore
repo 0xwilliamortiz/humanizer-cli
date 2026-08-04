@@ -1,0 +1,6 @@
+node_modules/
+package-lock.json
+sources/skill_data.h
+sources/humanizer
+sources/humanizer.exe
+humanizer.exe
